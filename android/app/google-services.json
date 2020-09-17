@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "1043435541873",
+    "firebase_url": "https://petopedia-oldjec.firebaseio.com",
+    "project_id": "petopedia-oldjec",
+    "storage_bucket": "petopedia-oldjec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043435541873:android:d12896d39e5405b85092d0",
+        "android_client_info": {
+          "package_name": "com.example.petopedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043435541873-kr2ufitrspr3gep345tilijq8hlgg7il.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.petopedia",
+            "certificate_hash": "b52dbc0e15a29179690092b453210dbf6061b263"
+          }
+        },
+        {
+          "client_id": "1043435541873-2llvac5t04hbd9kms4h1kdhke08ps7pv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1SONQnR9jwGXz-RRhmRDjZ4bWVMSnwEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043435541873-2llvac5t04hbd9kms4h1kdhke08ps7pv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043435541873:android:fb8d31116c6819b45092d0",
+        "android_client_info": {
+          "package_name": "com.hopizer.petopedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043435541873-2llvac5t04hbd9kms4h1kdhke08ps7pv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1SONQnR9jwGXz-RRhmRDjZ4bWVMSnwEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043435541873-2llvac5t04hbd9kms4h1kdhke08ps7pv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
